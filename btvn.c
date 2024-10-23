@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define MAX_YEAR 5 // Số năm từ 1920 đến 1970
+#define MAX_YEAR 51 // Số năm từ 1920 đến 1970
 #define START_YEAR 1920
 
 struct element {
